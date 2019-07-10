@@ -2059,8 +2059,8 @@ body {
   z-index: auto;
 }
 .cid-rvOfl2BOaP {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
 .cid-rvJl0TJak1 {
@@ -2657,4 +2657,9 @@ body {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
+}
+.cid-rvOhsd98Cx {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
 }
